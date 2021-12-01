@@ -1,5 +1,5 @@
 
-# Bài tập nhóm sô 2
+# Bài tập nhóm số 2
 
 Nhóm thực hiện: Nhóm 3 -Triple N
 
